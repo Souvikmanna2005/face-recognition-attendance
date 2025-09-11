@@ -52,6 +52,8 @@ Rohit Sharma, 2025-09-11, 19:20:15
 
 Real-time face recognition
 
+<img width="796" height="642" alt="Screenshot 2025-09-11 181251" src="https://github.com/user-attachments/assets/8ac3cb85-7286-4da0-883c-0d40307a8000" />
+
 Automatic CSV attendance marking
 
 Easy to extend with new people
