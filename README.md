@@ -46,7 +46,7 @@ Recognized faces are logged in attendance.csv with:
 
 Name, Date, Time
 
-Rohit Sharma, 2025-09-11, 19:20:15
+Virat Kohli, 2025-09-11, 19:20:15
 
 ✨ Features
 
